@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "g": "^2.0.1",
     "grunt": "^1.0.3",
     "grunt-contrib-less": "^2.0.0"
   },
