@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "chai": "^4.2.0",
     "grunt": "^1.0.3",
     "grunt-contrib-less": "^2.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt-mocha-cli": "^4.0.0",
+    "grunt-mocha-istanbul": "^5.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
